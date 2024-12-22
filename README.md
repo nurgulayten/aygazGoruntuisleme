@@ -1,5 +1,3 @@
-# aygazGoruntuisleme
-
 # Hayvan Sınıflandırma Projesi
 
 Bu proje, belirli hayvan türlerini görüntü verileri kullanarak sınıflandırmayı amaçlamaktadır. 
