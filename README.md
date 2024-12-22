@@ -17,11 +17,6 @@ Makine öğrenimi ve derin öğrenme yöntemlerini kullanarak hayvan resimlerini
   - Son katmanlarda 256 nöronlu bir Dense katman ve ardından Softmax aktivasyon fonksiyonu kullanılmıştır.
 
 - **Başarı Oranı**:
-  - Orijinal test verileri üzerinde doğruluk: **%85**.
-  - Manipüle edilmiş test verileri üzerinde doğruluk: **%75**.
-  - Renk dengesi uygulanmış veriler üzerinde doğruluk: **%78**.
-
-## Kurulum
-1. Gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install -r requirements.txt
+  - Orijinal test verileri üzerinde doğruluk: **%75.59**.
+  - Manipüle edilmiş test verileri üzerinde doğruluk: **%10.05**.
+  - Renk dengesi uygulanmış veriler üzerinde doğruluk: **%11.79**.
